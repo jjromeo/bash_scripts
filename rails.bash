@@ -13,4 +13,3 @@ export RUBY_HEAP_SLOTS_GROWTH_FACTOR=1 #Prevent asking for exponential amounts o
 export PATH="$HOME/.rbenv/bin:$PATH"
 export PATH="$HOME/bin:$PATH"
 eval "$(rbenv init -)"
-
